@@ -1,0 +1,33 @@
+donor,Sample Description/Name,Center,Age,Gender,Race,BMI,HbA1c
+HPAP019,Non,HPAP,22,M,Caucasian,29.8,5.2
+HPAP022,Non,HPAP,39,F,Caucasian,34.7,4.7
+HPAP024,Non,HPAP,18,M,Caucasian,24.3,5.5
+HPAP029,Non,HPAP,23,M,Caucasian,28.6,5.3
+HPAP035,Non,HPAP,35,M,Caucasian,26.9,5.2
+HPAP036,Non,HPAP,23,F,Caucasian,16,5.2
+HPAP037,Non,HPAP,35,F,Caucasian,21.9,5.3
+HPAP038,Non,HPAP,13,M,Caucasian,18.34,5.7
+HPAP039,Non,HPAP,5,F,Caucasian,16.3,6.8
+HPAP040,Non,HPAP,35,M,Caucasian,23.9,5.4
+HPAP042,Non,HPAP,1,M,Caucasian,17.9,5.6
+HPAP043,Non,HPAP,15,M,Hispanic,24,5.9
+HPAP044,Non,HPAP,3,F,Caucasian,12,5.3
+HPAP045,Non,HPAP,27,F,Caucasian,26.2,5.2
+HPAP047,Non,HPAP,8,M,Caucasian,16.82,NA
+HPAP049,Non,HPAP,29,M,Caucasian,37.2,5.4
+HPAP050,Non,HPAP,21,F,Hispanic,28.9,5.1
+HPAP051,T2D,HPAP,43,F,Black or African American,45.5,6.7
+HPAP052,Non,HPAP,27,M,Black or African American,38.7,5.2
+HPAP053,Non,HPAP,58,F,Caucasian,24.2,5.6
+HPAP054,Non,HPAP,40,F,Caucasian,30.8,4.8
+HPAP055,T1D,HPAP,24,M,Hispanic,27.9,10.4
+HPAP056,Non,HPAP,33,M,Caucasian,32.9,5.6
+HPAP057,T2D,HPAP,50,F,Caucasian,30.5,5.8
+HPAP058,T2D,HPAP,34,F,Black or African American,29.3,9.4
+HPAP059,Non,HPAP,35,M,Caucasian,37.96,5.1
+HPAP061,T2D,HPAP,59,F,Black or African American,38.2,5.9
+HPAP062,T2D,HPAP,56,M,Caucasian,26.48,NA
+HPAP063,Non,HPAP,45,F,Caucasian,38.4,6.3
+HPAP064,T1D,HPAP,24,M,Black or African American,16.98,NA
+HPAP067,Non,HPAP,26,M,Hispanic,35,5.9
+HPAP069,Non,HPAP,47,F,Caucasian,24.9,6.7

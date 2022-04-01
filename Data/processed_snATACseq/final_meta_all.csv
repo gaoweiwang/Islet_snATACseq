@@ -1,0 +1,55 @@
+donor,Sample ID,Sample Description/Name,Short ID,Freezing/storage method,ID,batch,Center,islet index,Age,Gender,Race,BMI,HbA1c,Purity_per,Date_batch,Planned experimental date,seq_deep,cell_num_1,cell_num_2,TSS_enrich,TSS_frac_per,map_frac_per,Purity,TSS_frac,map_frac,beta_cell,alpha_cell,delta_cell,gamma_cell,Disease
+JYH792,SAMP-692,Non,A0018,snap frozen,A0018,biobank,CH,1.3,37,M,Caucasian,29.5,5.5,75%,1,1/22/19,176,8043,5202,4.81,30.20%,73.20%,0.75,30.2,73.2,2782,1632,204,45,Non
+JYH809,SAMP-689,T2D,A0016,snap frozen,A0016,biobank,CH,1.4,57,M,Hispanic,23.3,7.3,73%,1,1/22/19,98,5940,3995,4.92,27.50%,80.50%,0.73,27.5,80.5,763,2292,113,48,T2D
+MM108,SAMP-1613,Pre,A0011,Dry ice frozen,A0011,biobank,CH,1.3,34,F,Caucasian,31.5,5.7,80%,2,8/5/19,163,7247,4689,4.32,29.70%,80.10%,0.8,29.7,80.1,1392,1416,249,43,Non
+MM109,SAMP-1608,T2D,C0019,snap frozen,C0019,biobank,SC,1.34,54,M,Hispanic Latino,23.6,5.8,83%,2,8/5/19,157,6916,5338,4.99,32.00%,79.60%,0.83,32,79.6,2370,2036,469,151,T2D
+MM110,SAMP-1695,Non,C0026,snap frozen,C0026,biobank,SC,1.32,20,M,Hispanic/Latino,35.8,4.6,95%,2,8/5/19,100,6761,5759,5.77,36.40%,77.70%,0.95,36.4,77.7,2850,2088,515,55,Non
+MM12,SAMP-1097,T2D,A0034,snap frozen,A0034,biobank,CH,1.01,52,M,Hispanic,29.9,8.3,75%,3,3/21/19,167,6947,5452,5.14,28.80%,74.40%,0.75,28.8,74.4,1042,3299,242,169,T2D
+MM120,SAMP-1611,T2D,A0026,Dry ice frozen,A0026,biobank,CH,1.61,36,F,Hispanic,44.3,6.9,80%,4,8/13/19,185,9466,8426,4.97,35.00%,79.20%,0.8,35,79.2,2982,4025,612,158,T2D
+MM121,SAMP-1607,T2D,B0004,snap frozen,B0004,biobank,Penn,1.27,54,M,Black or African American,33.7,8,90%,4,8/13/19,131,6345,5004,5.58,38.00%,77.40%,0.9,38,77.4,2296,2013,404,47,T2D
+MM122,SAMP-1605,T2D,C0024,snap frozen,C0024,biobank,SL,0.84,66,F,Hispanic Latino,29.1,7.2,85%,4,8/13/19,476,15295,12001,4.24,30.00%,78.00%,0.85,30,78,5342,4376,1200,344,T2D
+MM123,SAMP-1696,Non,C0027,snap frozen,C0027,biobank,Penn,1.7,24,M,White,23.9,5,95%,4,8/13/19,328,9217,7620,5.01,35.20%,76.50%,0.95,35.2,76.5,3918,2683,551,79,Non
+MM124,SAMP-1697,Non,C0028,snap frozen,C0028,biobank,SC,1.36,45,M,Hispanic/Latino,32.9,5.4,85%,4,8/13/19,362,15673,12669,5.36,34.70%,78.90%,0.85,34.7,78.9,6507,4645,732,181,Non
+MM51,SAMP-1150,T2D,C0021,snap frozen,C0021,biobank,SL,0.8,66,F,White,29.8,6.5,95%,5,5/16/19,345,9166,7023,5.68,38.60%,73.50%,0.95,38.6,73.5,3653,2569,423,103,T2D
+MM54,SAMP-1144,T2D,A0020,snap frozen,A0020,biobank,CH,1,51,F,Hispanic,43.3,9.6,85%,6,5/31/19,90,6800,5172,4.71,30.70%,80.00%,0.85,30.7,80,1742,2660,304,92,T2D
+MM55,SAMP-1138,Pre,A0028,snap frozen,A0028,biobank,CH,1.46,64,M,Caucasian,34.6,5.8,80%,6,5/31/19,160,9720,7603,5.89,36.70%,76.70%,0.8,36.7,76.7,3698,2558,400,319,Non
+MM56,SAMP-1136,Non,A0032,snap frozen,A0032,biobank,CH,1.63,45,M,Hispanic,26.5,4.6,80%,6,5/31/19,159,7086,5423,4.67,32.80%,78.30%,0.8,32.8,78.3,2535,1658,359,121,Non
+MM57,SAMP-1149,T2D,C0017,snap frozen,C0017,biobank,SL,1,45,M,White,27.2,6.5,85%,6,5/31/19,181,9795,7537,5,32.60%,76.40%,0.85,32.6,76.4,3577,2018,466,376,T2D
+MM59,SAMP-1134,Non,A0019,snap frozen,A0019,biobank,CH,1.02,61,M,Caucasian,27,5.6,80%,7,6/6/19,142,7979,4968,5.22,36.00%,74.50%,0.8,36,74.5,2846,1189,463,112,Non
+MM60,SAMP-1145,T2D,A0024,snap frozen,A0024,biobank,CH,1.3,59,M,White,36.7,6.8,83%,7,6/6/19,196,8998,5166,4.69,34.90%,76.50%,0.83,34.9,76.5,1510,2111,194,55,T2D
+MM61,SAMP-1139,Pre,A0029,snap frozen,A0029,biobank,CH,1.14,63,F,Hispanic,28.22,5.7,80%,7,6/6/19,213,9365,5518,4.67,32.20%,76.50%,0.8,32.2,76.5,1726,2236,167,42,Non
+MM77,SAMP-1141,Pre,C0013,snap frozen,C0013,biobank,SL,0.75,57,F,White,27.5,5.9,85%,8,6/19/19,206,9412,5590,4.72,32.50%,77.90%,0.85,32.5,77.9,2916,1760,521,96,Non
+MM78,SAMP-1142,Pre,C0014,snap frozen,C0014,biobank,SL,1.05,33,M,Black or African American,30.8,5.7,90%,8,6/19/19,200,9698,6194,4.32,30.50%,78.20%,0.9,30.5,78.2,1736,3368,279,74,Non
+MM79,SAMP-1148,T2D,C0015,snap frozen,C0015,biobank,SL,0.76,26,M,Black or African American,28.7,6.5,90%,8,6/19/19,228,8463,4917,4.77,33.10%,76.90%,0.9,33.1,76.9,2567,1625,445,88,T2D
+MM80,SAMP-1137,Non,C0016,snap frozen,C0016,biobank,SL,1.1,48,M,Hispanic Latino,32.4,5.6,95%,8,6/19/19,207,10223,7132,5.11,35.20%,75.40%,0.95,35.2,75.4,3270,2796,698,58,Non
+MM81,SAMP-1151,T2D,A0022,Dry ice frozen,A0022,biobank,CH,1.27,53,M,Black or African American,31.2,7.4,80%,8,6/19/19,208,9471,6162,5.7,36.30%,77.10%,0.8,36.3,77.1,2002,2903,714,100,T2D
+MM86,SAMP-1602,Non,A0023,snap frozen,A0023,biobank,CH,1.87,46,M,White,34.4,5.6,85%,9,7/11/19,283,8939,5938,4.33,31.80%,75.00%,0.85,31.8,75,2753,1912,286,62,Non
+MM87,SAMP-1500,Pre,A0030,snap frozen,A0030,biobank,CH,0.93,49,M,Hispanic,34.1,6.1,80%,9,7/11/19,210,10566,7171,4.85,30.90%,82.00%,0.8,30.9,82,2265,3144,338,55,Non
+MM88,SAMP-1499,T2D,A0031,snap frozen,A0031,biobank,CH,1.41,45,M,Caucasian,36.4,6.6,73%,9,7/11/19,147,5996,4042,4.78,30.30%,82.40%,0.73,30.3,82.4,1444,1747,153,34,T2D
+MM89,SAMP-1501,Non,A0033,snap frozen,A0033,biobank,CH,1.14,45,F,Caucasian,38,5.3,80%,9,7/11/19,204,8968,6240,4.24,28.70%,77.20%,0.8,28.7,77.2,2838,1272,354,152,Non
+MM93,SAMP-1609,Pre,A0021,Dry ice frozen,A0021,biobank,CH,1,61,F,Black or African American,26.6,5.7,98%,10,7/24/19,460,9135,6845,5.12,33.70%,78.20%,0.98,33.7,78.2,3098,2781,584,150,Non
+MM94,SAMP-1610,T2D,A0025,Dry ice frozen,A0025,biobank,CH,0.78,35,M,Hispanic,32.8,10,80%,10,7/24/19,239,10261,7039,4.79,32.30%,81.90%,0.8,32.3,81.9,2707,2126,480,638,T2D
+MM95,SAMP-1612,Non,A0027,Dry ice frozen,A0027,biobank,CH,1.26,59,M,Caucasian,27.2,5.1,90%,10,7/24/19,410,7465,5149,4.33,31.40%,79.00%,0.9,31.4,79,2074,1748,267,253,Non
+MM96,SAMP-1498,Pre,C0022,snap frozen,C0022,biobank,SL,0.9,50,M,Hispanic Latino,32.8,6,90%,10,7/24/19,687,9673,7097,4.78,35.20%,76.50%,0.9,35.2,76.5,3229,2785,631,213,Non
+MM97,SAMP-1503,T2D,C0023,snap frozen,C0023,biobank,SL,0.91,58,M,White,32.5,6.7,85%,10,7/24/19,251,11857,8883,5.21,34.30%,83.50%,0.85,34.3,83.5,2897,4440,801,136,T2D
+MM98,SAMP-1606,Non,C0025,snap frozen,C0025,biobank,Uwis,1.33,51,M,White,32.8,4.9,95%,10,7/24/19,109,8363,6009,5.69,35.30%,81.30%,0.95,35.3,81.3,3453,1552,525,162,Non
+HPAP035,35,Non,35,A,35,HPAP,HPAP,,35,M,Caucasian,26.9,5.2,,,,,,,,,,,,,,,,,
+HPAP036,,Non,,,,HPAP,HPAP,,23,F,Caucasian,16,5.2,,,,,,,,,,,,,,,,,
+HPAP039,,Non,,,,HPAP,HPAP,,5,F,Caucasian,16.3,6.8,,,,,,,,,,,,,,,,,
+HPAP040,,Non,,,,HPAP,HPAP,,35,M,Caucasian,23.9,5.4,,,,,,,,,,,,,,,,,
+HPAP045,,Non,,,,HPAP,HPAP,,27,F,Caucasian,26.2,5.2,,,,,,,,,,,,,,,,,
+HPAP049,,Non,,,,HPAP,HPAP,,29,M,Caucasian,37.2,5.4,,,,,,,,,,,,,,,,,
+HPAP050,,Non,,,,HPAP,HPAP,,21,F,Hispanic,28.9,5.1,,,,,,,,,,,,,,,,,
+HPAP051,,T2D,,,,HPAP,HPAP,,43,F,Black or African American,45.5,6.7,,,,,,,,,,,,,,,,,
+HPAP052,,Non,,,,HPAP,HPAP,,27,M,Black or African American,38.7,5.2,,,,,,,,,,,,,,,,,
+HPAP053,,Non,,,,HPAP,HPAP,,58,F,Caucasian,24.2,5.6,,,,,,,,,,,,,,,,,
+HPAP054,,Non,,,,HPAP,HPAP,,40,F,Caucasian,30.8,4.8,,,,,,,,,,,,,,,,,
+HPAP056,,Non,,,,HPAP,HPAP,,33,M,Caucasian,32.9,5.6,,,,,,,,,,,,,,,,,
+HPAP057,,T2D,,,,HPAP,HPAP,,50,F,Caucasian,30.5,5.8,,,,,,,,,,,,,,,,,
+HPAP058,,T2D,,,,HPAP,HPAP,,34,F,Black or African American,29.3,9.4,,,,,,,,,,,,,,,,,
+HPAP059,,Non,,,,HPAP,HPAP,,35,M,Caucasian,32.9,5.6,,,,,,,,,,,,,,,,,
+HPAP061,,T2D,,,,HPAP,HPAP,,59,F,Black or African American,38.2,5.9,,,,,,,,,,,,,,,,,
+HPAP062,,T2D,,,,HPAP,HPAP,,56,M,Caucasian,26.5,NA,,,,,,,,,,,,,,,,,
+HPAP063,,Non,,,,HPAP,HPAP,,45,F,Caucasian,38.4,6.3,,,,,,,,,,,,,,,,,
+HPAP067,,Non,,,,HPAP,HPAP,,26,M,Hispanic,35,5.9,,,,,,,,,,,,,,,,,
+HPAP069,,Non,,,,HPAP,HPAP,,47,F,Caucasian,24.9,6.7,,,,,,,,,,,,,,,,,
