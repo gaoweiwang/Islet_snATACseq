@@ -1,20 +1,16 @@
-# Islet_snATACseq
-## Download raw or processed data from GSE169453
-
-########### download raw data
+# Download raw data
 ### Download 10x snATAC-seq raw data from NCBI Gene Expression Omnibus (GSE169453)
 ### Download 10x multiome raw data from NCBI Gene Expression Omnibus (GSE200044)
 
-########### Download processed snATAC-seq and multiome data to reproduce figures
-### There several ways to download processed data.
-###1, download files less than 25M from github data folder: https://github.com/gaoweiwang/Islet_snATACseq
-### or, from figshare:
-### multiome: https://figshare.com/articles/dataset/processed_multiome_zip/19497665
-### snATACseq: https://figshare.com/articles/dataset/processed_snATACseq_zip/19497656
+# Download processed snATAC-seq and multiome data to reproduce figures
+## 1, download files less than 25M from github data folder: https://github.com/gaoweiwang/Islet_snATACseq
+or, from figshare:
+multiome: https://figshare.com/articles/dataset/processed_multiome_zip/19497665
+snATACseq: https://figshare.com/articles/dataset/processed_snATACseq_zip/19497656
 
-###2, download large processed or intermeidate files:
-#snATAC-seq data (http://169.228.232.194/~mmallick/o/processed_snATACseq.tar.gz)
-#multiome data (http://169.228.232.194/~mmallick/o/processed_multiome.tar.gz)
+## 2, download large processed or intermeidate files:
+snATAC-seq data (http://169.228.232.194/~mmallick/o/processed_snATACseq.tar.gz)
+multiome data (http://169.228.232.194/~mmallick/o/processed_multiome.tar.gz)
   
 ## 1. Use the cell_clustering.ipynb notebook to cluster cells.
 ### Session information
