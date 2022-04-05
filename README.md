@@ -2,7 +2,7 @@
 Download 10x snATAC-seq raw data from NCBI Gene Expression Omnibus (GSE169453)
 Download 10x multiome raw data from NCBI Gene Expression Omnibus (GSE200044)
 
-# Download processed snATAC-seq and multiome data to reproduce figures
+# Download processed data to reproduce figures
 ## 1, download files less than 25M from github data folder:
 https://github.com/gaoweiwang/Islet_snATACseq
 
@@ -24,7 +24,7 @@ Use AI_subtype.ipynb to train classifier to distinguish beta cell subtypes enric
 Use AI_HPAP.ipynb to predict subtype of beta cells from public HPAP isle snATAC-seq dataset
 Use run_scWASP.py and run_imbalance.py to perform genetic analysis
 
-### Session information
+# Session information
 Platform: x86_64-conda_cos6-linux-gnu (64-bit) \
 Running under: CentOS Linux 7 (Core) \
 attached base packages: \
