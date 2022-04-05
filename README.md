@@ -1,9 +1,10 @@
 # Download raw data
-### Download 10x snATAC-seq raw data from NCBI Gene Expression Omnibus (GSE169453)
-### Download 10x multiome raw data from NCBI Gene Expression Omnibus (GSE200044)
+Download 10x snATAC-seq raw data from NCBI Gene Expression Omnibus (GSE169453)
+Download 10x multiome raw data from NCBI Gene Expression Omnibus (GSE200044)
 
 # Download processed snATAC-seq and multiome data to reproduce figures
 ## 1, download files less than 25M from github data folder: https://github.com/gaoweiwang/Islet_snATACseq
+
 or, from figshare:
 multiome: https://figshare.com/articles/dataset/processed_multiome_zip/19497665
 snATACseq: https://figshare.com/articles/dataset/processed_snATACseq_zip/19497656
